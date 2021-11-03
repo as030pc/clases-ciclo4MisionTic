@@ -5,7 +5,7 @@ const index = () => {
     return (
         <div>
            <div>Pagina de admin de usuarios</div> 
-           <Link href = "/"></Link>
+           <Link href = "/"> Volver al home </Link>
             
         </div>
 
